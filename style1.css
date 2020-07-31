@@ -1,0 +1,41 @@
+#t1 {
+    text-align: center;
+    background-image: url(imagem\ 1.jpg);
+    padding-bottom: 20px; 
+    background-position: center;
+    border:5px rgb(8, 8, 73) ;
+    background-color: rgb(8, 8, 73);
+}
+#b1 {
+    font-family: Verdana, Tahoma, sans-serif;
+    text-decoration: underline;
+    color:rgb(8, 8, 73) ;
+}
+#b2 {
+    border: 3px rgb(8, 8, 73) solid;
+    padding: 10px 20px 10px 20px;
+    font-family: Tahoma;
+    background-color: rgb(72, 122, 216);
+    color: rgb(8, 8, 73) ;
+    border-radius: 20px 20px 20px 20px;
+    
+}
+body {background-color: cornflowerblue;
+}
+
+#b1a {
+    font-family: arial;
+    color: rgb(8, 8, 73);
+}
+#b3 {
+    position: absolute;
+    left: 100px;
+    top: 100px;
+}
+#b4 {
+    position: absolute;
+    left:;
+    right: 20px;
+    
+    
+}
