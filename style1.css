@@ -20,7 +20,7 @@
     border-radius: 20px 20px 20px 20px;
     
 }
-body {background-color: cornflowerblue;
+body {background-color: rgb(8, 49, 73);
 }
 
 #b1a {
@@ -33,9 +33,81 @@ body {background-color: cornflowerblue;
     top: 100px;
 }
 #b4 {
+    position: relative;
+    right: 100px;
+    left: 700px;
+    padding-right: 50px;
+}
+#t2 {
+    background-image: url(pexeels.jpg);
+}
+#t3 {
     position: absolute;
-    left:;
-    right: 20px;
+    left: 100px;
     
+}
+#b5 {
+    font-family: Verdana, Tahoma, sans-serif;
+    color: white;
+    border-radius: 20px 20px 20px 20px;
+    border: 3px white solid;
+    background-color: grey;
+
+}
+#b6 {
+    color: white;
+    font-size: 20px;
+    font-family: arial;
+}
+#b7 {
+    color: white;
+    text-align: center;
+    font-family: Tahoma;
+    border-radius: 20px 20px 20px 20px;
+    border: 3px white solid;
+    background-color: grey;
+    border-spacing: 5px;
     
+}
+#b8 {
+position: relative;
+    
+    right: 600px;
+    top:5px;
+}
+#b9 {
+    font-size: 20px;
+    color: white;
+    font-family: arial;
+
+}
+#b10 {
+    font-family: Tahoma;
+    border-radius: 20px 0 20px 0;
+    border: 3px white solid;
+    background-color: grey;
+    text-align: start;
+
+}
+#b11 {
+    background-color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding: 5px 5px 5px 5px;
+    font-size: 15px;
+    font-family: arial;
+
+}
+
+#t4 {
+    color: white;
+}
+#t6 {
+    position: relative;
+    left: 25%;
+}
+#t7 {
+    border-radius: 20px 20px 20px 20px;
+    border: 3px white solid;
+    background-color: grey;
 }
